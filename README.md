@@ -17,3 +17,33 @@ The project analyzes **31 U.S. Large Hub airports from 2019–2024** using FAA a
 ## 📊 Dashboard Overview
 
 ![Airport Financial Performance Dashboard](dashboard/overview.png)
+
+## Business Problem
+
+Major U.S. airports can handle similar passenger volumes but still generate very different levels of revenue.
+
+The goal of this project was to understand how well airports are converting passenger traffic into revenue, compare their performance with other large airports, and identify which commercial revenue categories are contributing to the differences.
+
+## What I Did
+
+I cleaned and prepared financial and passenger data for 31 large U.S. airports covering 2019 to 2024.
+
+I then built a Power BI data model and created measures to analyze:
+
+- Revenue per passenger
+- Commercial revenue per passenger
+- Operating margin
+- Passenger and revenue growth
+- Peer median performance
+- Airport monetization ranking
+- Commercial revenue performance by category
+
+The dashboard is split into two pages. The first page looks at overall financial and passenger performance, while the second page focuses more closely on passenger monetization and peer comparison.
+
+## Monetization Analysis
+
+The second page focuses on how much commercial revenue airports generate from their passenger traffic.
+
+It allows an airport to be compared with the peer median and shows which commercial revenue categories are performing above or below the benchmark.
+
+![Airport Monetization Dashboard](dashboard/monetization.png)
