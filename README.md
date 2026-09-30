@@ -46,4 +46,4 @@ The second page focuses on how much commercial revenue airports generate from th
 
 It allows an airport to be compared with the peer median and shows which commercial revenue categories are performing above or below the benchmark.
 
-![Airport Monetization Dashboard](dashboard/monetization.png)
+![Airport Monetization Dashboard](dashboard/Monetization.png)
