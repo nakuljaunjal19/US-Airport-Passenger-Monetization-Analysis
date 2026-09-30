@@ -85,4 +85,4 @@ The model includes:
 - Airport performance fact table
 - Commercial revenue fact table
 
-![Power BI Data Model](model/data_model.png)
+![Power BI Data Model](model/model.png)
