@@ -108,3 +108,20 @@ Some of the main measures used in the analysis are:
 - Category Gap vs Peer Median
 
 The peer comparison measures were designed so that a selected airport can be compared with the rest of the airport group while keeping the selected year and revenue category filters.
+
+
+## Data Limitations
+
+The FAA source data does not provide complete values for every commercial revenue field used in the original reporting structure.
+
+Because of this, the project uses **Known Commercial Revenue**, which is calculated from five verified categories:
+
+- Parking & Ground Transportation
+- Rental Car
+- Food & Beverage
+- Retail
+- Terminal Services
+
+The results should therefore be interpreted as an analysis of these known commercial revenue categories rather than total non-aeronautical revenue.
+
+Peer comparisons also show differences in performance, but they do not by themselves explain the reason for those differences. Factors such as airport size, passenger mix, concession agreements, transportation access, and local market conditions can also affect revenue performance.
