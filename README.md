@@ -86,3 +86,25 @@ The model includes:
 - Commercial revenue fact table
 
 ![Power BI Data Model](model/model.png)
+
+
+## Analysis & Measures
+
+I created DAX measures to track financial performance, passenger trends, and airport monetization.
+
+Some of the main measures used in the analysis are:
+
+- Total Operating Revenue
+- Total Enplanements
+- Revenue per Passenger
+- Known Commercial Revenue per Passenger
+- Operating Margin %
+- Revenue YoY Growth %
+- Passenger YoY Growth %
+- Peer Median Revenue per Passenger
+- Peer Gap %
+- Airport Monetization Rank
+- Commercial Revenue Share %
+- Category Gap vs Peer Median
+
+The peer comparison measures were designed so that a selected airport can be compared with the rest of the airport group while keeping the selected year and revenue category filters.
