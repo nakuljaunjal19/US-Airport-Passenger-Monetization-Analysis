@@ -47,3 +47,42 @@ The second page focuses on how much commercial revenue airports generate from th
 It allows an airport to be compared with the peer median and shows which commercial revenue categories are performing above or below the benchmark.
 
 ![Airport Monetization Dashboard](dashboard/Monetization.png)
+
+
+## Data
+
+The analysis uses FAA airport financial and passenger data for 31 large U.S. airports from 2019 to 2024.
+
+The cleaned dataset includes airport-level information such as:
+
+- Passenger enplanements
+- Operating revenue
+- Operating expenses
+- Operating income
+- Capital expenditure
+- Commercial revenue by category
+- Airport and location details
+
+The commercial revenue analysis currently focuses on five verified categories:
+
+- Parking & Ground Transportation
+- Rental Car
+- Food & Beverage
+- Retail
+- Terminal Services
+
+## Data Model
+
+I used a dimensional model in Power BI with separate fact and dimension tables.
+
+The model includes:
+
+- Airport dimension
+- Year dimension
+- Revenue category dimension
+- Geography dimension
+- Data quality dimension
+- Airport performance fact table
+- Commercial revenue fact table
+
+![Power BI Data Model](model/data_model.png)
