@@ -16,4 +16,4 @@ The project analyzes **31 U.S. Large Hub airports from 2019–2024** using FAA a
 
 ## 📊 Dashboard Overview
 
-![Airport Financial Performance Dashboard](dashboard/overview1.png)
+![Airport Financial Performance Dashboard](dashboard/overview.png)
