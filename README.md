@@ -125,3 +125,12 @@ Because of this, the project uses **Known Commercial Revenue**, which is calcula
 The results should therefore be interpreted as an analysis of these known commercial revenue categories rather than total non-aeronautical revenue.
 
 Peer comparisons also show differences in performance, but they do not by themselves explain the reason for those differences. Factors such as airport size, passenger mix, concession agreements, transportation access, and local market conditions can also affect revenue performance.
+
+
+## Project Files
+
+- [Power BI Report](powerbi/US_Airport_Passenger_Monetization_Analysis.pbix)
+- [Cleaned Dataset](data/Airport_Revenue.xlsx)
+- [Overview Dashboard](dashboard/overview.png)
+- [Monetization Dashboard](dashboard/Monetization.png)
+- [Data Model](model/model.png)
