@@ -49,6 +49,23 @@ It allows an airport to be compared with the peer median and shows which commerc
 ![Airport Monetization Dashboard](dashboard/Monetization.png)
 
 
+## Key Findings
+
+- Across the 31 airports, passenger traffic reached about **716.2 million enplanements in 2024**, around **4.7% higher than 2019**. Over the same period, operating revenue increased by about **30%**, from $17.46B to $22.69B.
+
+- **Revenue per passenger increased from $25.53 in 2019 to $31.68 in 2024**, an increase of about **24%**. Known commercial revenue per passenger also increased from **$8.82 to $10.71**.
+
+- **Boston Logan (BOS)** had the highest known commercial revenue per passenger in 2024 at **$18.72**, compared with the peer median of **$11.26**. This was about **66% above the peer median**.
+
+- Passenger volume alone did not determine monetization performance. **Atlanta (ATL)** had the highest passenger volume at about **53.7M enplanements**, but generated only **$6.72 in known commercial revenue per passenger**, around **40% below the peer median**.
+
+- **Los Angeles (LAX) and Chicago O'Hare (ORD)** handled relatively similar passenger volumes in 2024 — about **38.3M and 40.0M enplanements** — but LAX generated **$13.36 in known commercial revenue per passenger compared with $7.34 at ORD**.
+
+- **Parking & Ground Transportation** was the largest known commercial revenue category in 2024, generating about **$4.08B** and accounting for roughly **53% of the five known commercial revenue categories**. Rental Car revenue was the second-largest category at about **18%**.
+
+- Total revenue per passenger and commercial monetization did not always move together. **JFK had the highest total operating revenue per passenger at $60.02**, but its known commercial revenue per passenger was only **$7.13**, ranking near the bottom of the 31-airport group.
+
+
 ## Data
 
 The analysis uses FAA airport financial and passenger data for 31 large U.S. airports from 2019 to 2024.
